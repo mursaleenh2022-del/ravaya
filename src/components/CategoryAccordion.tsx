@@ -9,19 +9,19 @@ const categories = [
     id: "casual",
     title: "Casual",
     subtitle: "Everyday Elegance",
-    image: "/assets/img/gen_p06_model.jpg",
+    image: "/ravaya/assets/img/gen_p06_model.jpg",
   },
   {
     id: "festive",
     title: "Festive",
     subtitle: "Celebratory Wear",
-    image: "/assets/img/gen_p07_model.jpg",
+    image: "/ravaya/assets/img/gen_p07_model.jpg",
   },
   {
     id: "bridal",
     title: "Bridal",
     subtitle: "The Ultimate Heritage",
-    image: "/assets/img/gen_p01_model.jpg",
+    image: "/ravaya/assets/img/gen_p01_model.jpg",
   }
 ];
 

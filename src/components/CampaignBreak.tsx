@@ -22,7 +22,7 @@ export default function CampaignBreak() {
       >
         <div className="absolute inset-0 bg-ink/50 z-10" />
         <img 
-          src="/assets/img/gen_p03_model.jpg" 
+          src="/ravaya/assets/img/gen_p03_model.jpg" 
           alt="Ravaya Campaign" 
           className="w-full h-full object-cover object-center"
           loading="lazy"

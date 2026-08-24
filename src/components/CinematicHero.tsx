@@ -47,7 +47,7 @@ export default function CinematicHero() {
           style={{ y: imageY }}
         >
           <img 
-            src="/assets/img/gen_p03_model.jpg" 
+            src="/ravaya/assets/img/gen_p03_model.jpg" 
             alt="Ravaya Hero Overlap" 
             className="w-full h-full object-cover"
           />

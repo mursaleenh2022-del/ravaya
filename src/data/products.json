@@ -11,10 +11,10 @@
     "inStock": true,
     "description": "A sophisticated summer ensemble featuring intricate floral threadwork across premium lawn fabric. Paired with a block-printed chiffon dupatta and solid dyed cambric trousers. Perfect for seasonal daytime gatherings.",
     "images": [
-      "/assets/img/gen_p01_model.jpg",
-      "/assets/img/gen_p01_detail.jpg",
-      "/assets/img/gen_p01_flat.jpg",
-      "/assets/img/gen_p01_back.jpg"
+      "/ravaya/assets/img/gen_p01_model.jpg",
+      "/ravaya/assets/img/gen_p01_detail.jpg",
+      "/ravaya/assets/img/gen_p01_flat.jpg",
+      "/ravaya/assets/img/gen_p01_back.jpg"
     ],
     "variants": [
       {
@@ -35,10 +35,10 @@
     "inStock": true,
     "description": "Elegance defined by a heavily-paneled chiffon silhouette, adorned with hand-placed zari, pearls, and tilla embroidery. Paired with a raw silk chooridar and an embellished organza dupatta.",
     "images": [
-      "/assets/img/gen_p02_model.jpg",
-      "/assets/img/gen_p02_detail.jpg",
-      "/assets/img/gen_p02_flat.jpg",
-      "/assets/img/gen_p02_back.jpg"
+      "/ravaya/assets/img/gen_p02_model.jpg",
+      "/ravaya/assets/img/gen_p02_detail.jpg",
+      "/ravaya/assets/img/gen_p02_flat.jpg",
+      "/ravaya/assets/img/gen_p02_back.jpg"
     ],
     "variants": [
       {
@@ -59,10 +59,10 @@
     "inStock": true,
     "description": "Vibrant garden motifs printed on breathable, lightweight lawn fabric. Accompanied by a printed voile dupatta and plain dyed trousers. Designed for effortless everyday grace.",
     "images": [
-      "/assets/img/gen_p03_model.jpg",
-      "/assets/img/gen_p03_detail.jpg",
-      "/assets/img/gen_p03_flat.jpg",
-      "/assets/img/gen_p03_back.jpg"
+      "/ravaya/assets/img/gen_p03_model.jpg",
+      "/ravaya/assets/img/gen_p03_detail.jpg",
+      "/ravaya/assets/img/gen_p03_flat.jpg",
+      "/ravaya/assets/img/gen_p03_back.jpg"
     ],
     "variants": [
       {
@@ -83,10 +83,10 @@
     "inStock": true,
     "description": "An ethereal Peshwas crafted from ice-blue organza with silver kora and dabka embroidery on the bodice. Underlaid with premium viscose and finished with silk pipings.",
     "images": [
-      "/assets/img/gen_p04_model.jpg",
-      "/assets/img/gen_p04_detail.jpg",
-      "/assets/img/gen_p04_flat.jpg",
-      "/assets/img/gen_p04_back.jpg"
+      "/ravaya/assets/img/gen_p04_model.jpg",
+      "/ravaya/assets/img/gen_p04_detail.jpg",
+      "/ravaya/assets/img/gen_p04_flat.jpg",
+      "/ravaya/assets/img/gen_p04_back.jpg"
     ],
     "variants": [
       {
@@ -107,10 +107,10 @@
     "inStock": true,
     "description": "A stylish, heavy-weight cotton khaddar tunic and straight trouser set. Embellished with subtle geometric embroidery along the collar and sleeves, perfect for crisp evening wear.",
     "images": [
-      "/assets/img/gen_p05_model.jpg",
-      "/assets/img/gen_p05_detail.jpg",
-      "/assets/img/gen_p05_flat.jpg",
-      "/assets/img/gen_p05_back.jpg"
+      "/ravaya/assets/img/gen_p05_model.jpg",
+      "/ravaya/assets/img/gen_p05_detail.jpg",
+      "/ravaya/assets/img/gen_p05_flat.jpg",
+      "/ravaya/assets/img/gen_p05_back.jpg"
     ],
     "variants": [
       {
@@ -131,10 +131,10 @@
     "inStock": true,
     "description": "A timeless 6-yard saree draped in pure silk, featuring a hand-woven gold Banarasi zari border. Comes with an unstitched blouse piece in matching silk satin.",
     "images": [
-      "/assets/img/gen_p06_model.jpg",
-      "/assets/img/gen_p06_detail.jpg",
-      "/assets/img/gen_p06_flat.jpg",
-      "/assets/img/gen_p06_back.jpg"
+      "/ravaya/assets/img/gen_p06_model.jpg",
+      "/ravaya/assets/img/gen_p06_detail.jpg",
+      "/ravaya/assets/img/gen_p06_flat.jpg",
+      "/ravaya/assets/img/gen_p06_back.jpg"
     ],
     "variants": [
       {
@@ -155,10 +155,10 @@
     "inStock": true,
     "description": "A majestic bridal look featuring a deep plum micro-velvet lehenga with gold dabka, sequins, and gota details. Includes a silk choli and a heavy-bordered organza dupatta.",
     "images": [
-      "/assets/img/gen_p07_model.jpg",
-      "/assets/img/gen_p07_detail.jpg",
-      "/assets/img/gen_p07_flat.jpg",
-      "/assets/img/gen_p07_back.jpg"
+      "/ravaya/assets/img/gen_p07_model.jpg",
+      "/ravaya/assets/img/gen_p07_detail.jpg",
+      "/ravaya/assets/img/gen_p07_flat.jpg",
+      "/ravaya/assets/img/gen_p07_back.jpg"
     ],
     "variants": [
       {
@@ -179,10 +179,10 @@
     "inStock": true,
     "description": "An ornate design displaying self-woven jacquard floral clusters on sheer organza. Accented by detailed embroidered borders and soft modal inner lining.",
     "images": [
-      "/assets/img/gen_p08_model.jpg",
-      "/assets/img/gen_p08_detail.jpg",
-      "/assets/img/gen_p08_flat.jpg",
-      "/assets/img/gen_p08_back.jpg"
+      "/ravaya/assets/img/gen_p08_model.jpg",
+      "/ravaya/assets/img/gen_p08_detail.jpg",
+      "/ravaya/assets/img/gen_p08_flat.jpg",
+      "/ravaya/assets/img/gen_p08_back.jpg"
     ],
     "variants": [
       {
@@ -203,10 +203,10 @@
     "inStock": false,
     "description": "A minimal, everyday classic shirt crafted from 100% fine cotton. Adorned with delicate traditional block-prints and dynamic wood button closures.",
     "images": [
-      "/assets/img/gen_p09_model.jpg",
-      "/assets/img/gen_p09_detail.jpg",
-      "/assets/img/gen_p09_flat.jpg",
-      "/assets/img/gen_p09_back.jpg"
+      "/ravaya/assets/img/gen_p09_model.jpg",
+      "/ravaya/assets/img/gen_p09_detail.jpg",
+      "/ravaya/assets/img/gen_p09_flat.jpg",
+      "/ravaya/assets/img/gen_p09_back.jpg"
     ],
     "variants": [
       {
@@ -227,10 +227,10 @@
     "inStock": true,
     "description": "An elegant, lightweight chiffon silhouette embellished with mirror-work highlights and sequins on the neckline. Combined with a ruffled crinkle dupatta.",
     "images": [
-      "/assets/img/gen_p10_model.jpg",
-      "/assets/img/gen_p10_detail.jpg",
-      "/assets/img/gen_p10_flat.jpg",
-      "/assets/img/gen_p10_back.jpg"
+      "/ravaya/assets/img/gen_p10_model.jpg",
+      "/ravaya/assets/img/gen_p10_detail.jpg",
+      "/ravaya/assets/img/gen_p10_flat.jpg",
+      "/ravaya/assets/img/gen_p10_back.jpg"
     ],
     "variants": [
       {
@@ -251,10 +251,10 @@
     "inStock": true,
     "description": "A luxurious jamawar silk lehenga skirt featuring rich weave motifs, detailed matching blouse, and a crimson net dupatta laden with golden sequences.",
     "images": [
-      "/assets/img/gen_p11_model.jpg",
-      "/assets/img/gen_p11_detail.jpg",
-      "/assets/img/gen_p11_flat.jpg",
-      "/assets/img/gen_p11_back.jpg"
+      "/ravaya/assets/img/gen_p11_model.jpg",
+      "/ravaya/assets/img/gen_p11_detail.jpg",
+      "/ravaya/assets/img/gen_p11_flat.jpg",
+      "/ravaya/assets/img/gen_p11_back.jpg"
     ],
     "variants": [
       {
@@ -275,10 +275,10 @@
     "inStock": true,
     "description": "Comfortable winter khaddar suit featuring an elaborate floral shawl and dyed trousers. Kept in a warm, comforting shade of camel brown.",
     "images": [
-      "/assets/img/gen_p12_model.jpg",
-      "/assets/img/gen_p12_detail.jpg",
-      "/assets/img/gen_p12_flat.jpg",
-      "/assets/img/gen_p12_back.jpg"
+      "/ravaya/assets/img/gen_p12_model.jpg",
+      "/ravaya/assets/img/gen_p12_detail.jpg",
+      "/ravaya/assets/img/gen_p12_flat.jpg",
+      "/ravaya/assets/img/gen_p12_back.jpg"
     ],
     "variants": [
       {

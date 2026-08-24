@@ -53,7 +53,7 @@ export default function CategoryHero({ categoryName }: CategoryHeroProps) {
         >
           {/* Using a dynamic generic placeholder for the aesthetic */}
           <img 
-            src={`/assets/img/gen_p0${categoryName.length % 3 + 1}_model.jpg`} 
+            src={`/ravaya/assets/img/gen_p0${categoryName.length % 3 + 1}_model.jpg`} 
             alt={`${categoryName} Collection`} 
             className="w-full h-full object-cover"
           />

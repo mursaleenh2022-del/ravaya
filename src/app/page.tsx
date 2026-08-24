@@ -69,7 +69,7 @@ export default async function Home() {
           title="Bespoke Tailoring"
           tagline="The Perfect Fit"
           description="Whether you choose our unstitched fabrics to drape in your own style, or request our premium bespoke stitching service, we ensure precision sizing and unparalleled comfort."
-          imageSrc="/assets/img/gen_editorial_fitting.jpg"
+          imageSrc="/ravaya/assets/img/gen_editorial_fitting.jpg"
           ctaText="Discover Our Process"
           ctaLink="/size-guide"
         />
