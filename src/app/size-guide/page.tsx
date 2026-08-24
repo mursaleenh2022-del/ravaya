@@ -88,16 +88,14 @@ export default function SizeGuidePage() {
             </section>
 
             {/* Custom Stitching Notes */}
-            <section className="bg-cream-dark/20 p-10 md:p-16 relative overflow-hidden flex flex-col md:flex-row gap-10 items-center">
-              <div className="absolute top-0 left-0 w-2 h-full bg-gold" />
-              <div className="flex-1">
-                <h3 className="font-display font-semibold text-3xl md:text-4xl text-ink mb-6">
-                  Bespoke Tailoring Support
-                </h3>
-                <p className="text-sm text-ink/75 leading-relaxed font-body max-w-2xl">
-                  We provide an exclusive bespoke tailoring service for clients with unique measurement requirements or those seeking personalized adjustments like custom sleeve lengths, varied trouser silhouettes, or tailored necklines. To request this service, simply choose the "Custom Tailored" variant when adding an item to your collection. One of our specialized design consultants will then contact you directly on WhatsApp to finalize your exact specifications and guarantee a flawless fit.
-                </p>
-              </div>
+            <section className="border border-border-light/50 bg-white shadow-soft rounded-[24px] p-10 md:p-16 flex flex-col items-center text-center mx-auto max-w-4xl">
+              <div className="w-10 h-0.5 bg-gold mb-8" />
+              <h3 className="font-display font-semibold text-3xl md:text-4xl text-ink mb-6">
+                Bespoke Tailoring Support
+              </h3>
+              <p className="text-sm text-ink/75 leading-relaxed font-body max-w-2xl">
+                We provide an exclusive bespoke tailoring service for clients with unique measurement requirements or those seeking personalized adjustments like custom sleeve lengths, varied trouser silhouettes, or tailored necklines. To request this service, simply choose the "Custom Tailored" variant when adding an item to your collection. One of our specialized design consultants will then contact you directly on WhatsApp to finalize your exact specifications and guarantee a flawless fit.
+              </p>
             </section>
 
           </div>
