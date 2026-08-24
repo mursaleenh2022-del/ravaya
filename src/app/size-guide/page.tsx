@@ -1,0 +1,111 @@
+import React from "react";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import CartDrawer from "@/components/CartDrawer";
+
+export default function SizeGuidePage() {
+  return (
+    <>
+      <Header theme="dark" />
+      
+      {/* Luxury Page Header */}
+      <section className="bg-ink text-cream pt-40 pb-24 px-6 md:px-10 relative overflow-hidden">
+        <div className="max-w-[1400px] mx-auto text-center relative z-10">
+          <span className="text-[10px] font-bold tracking-[0.4em] uppercase text-gold mb-6 block">
+            Bespoke Fit
+          </span>
+          <h1 className="text-5xl sm:text-6xl md:text-8xl font-display font-semibold tracking-tight">
+            Size & Fit Guide.
+          </h1>
+          <p className="mt-6 text-cream/70 text-sm md:text-base max-w-xl mx-auto font-body tracking-wider">
+            Please consult our measurements in inches below to select your perfect stitched size.
+          </p>
+        </div>
+      </section>
+
+      {/* Main Content Area */}
+      <main className="bg-background text-foreground py-24 px-6 md:px-10">
+        <div className="max-w-5xl mx-auto">
+          
+          <div className="space-y-20">
+            
+            {/* Standard Suit Chart */}
+            <section>
+              <div className="flex items-center gap-4 mb-10">
+                <h2 className="text-2xl md:text-3xl font-display font-semibold text-ink">
+                  Standard Stitched Suit Measurements
+                </h2>
+              </div>
+              
+              <div className="overflow-x-auto">
+                <table className="w-full text-left text-sm text-ink border-collapse font-body">
+                  <thead>
+                    <tr className="border-b border-ink/20">
+                      <th className="py-4 px-4 font-bold uppercase tracking-widest text-gold text-xs">Size</th>
+                      <th className="py-4 px-4 font-bold uppercase tracking-widest text-gold text-xs">Chest</th>
+                      <th className="py-4 px-4 font-bold uppercase tracking-widest text-gold text-xs">Waist</th>
+                      <th className="py-4 px-4 font-bold uppercase tracking-widest text-gold text-xs">Shoulder</th>
+                      <th className="py-4 px-4 font-bold uppercase tracking-widest text-gold text-xs">Shirt Length</th>
+                      <th className="py-4 px-4 font-bold uppercase tracking-widest text-gold text-xs">Trouser Length</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-ink/10">
+                    <tr className="hover:bg-cream/50 transition-colors">
+                      <td className="py-6 px-4 font-semibold text-ink tracking-widest">SMALL (S)</td>
+                      <td className="py-6 px-4">36"</td>
+                      <td className="py-6 px-4">30"</td>
+                      <td className="py-6 px-4">14.0"</td>
+                      <td className="py-6 px-4">38"</td>
+                      <td className="py-6 px-4">38"</td>
+                    </tr>
+                    <tr className="hover:bg-cream/50 transition-colors">
+                      <td className="py-6 px-4 font-semibold text-ink tracking-widest">MEDIUM (M)</td>
+                      <td className="py-6 px-4">40"</td>
+                      <td className="py-6 px-4">34"</td>
+                      <td className="py-6 px-4">15.0"</td>
+                      <td className="py-6 px-4">40"</td>
+                      <td className="py-6 px-4">39"</td>
+                    </tr>
+                    <tr className="hover:bg-cream/50 transition-colors">
+                      <td className="py-6 px-4 font-semibold text-ink tracking-widest">LARGE (L)</td>
+                      <td className="py-6 px-4">44"</td>
+                      <td className="py-6 px-4">38"</td>
+                      <td className="py-6 px-4">16.0"</td>
+                      <td className="py-6 px-4">42"</td>
+                      <td className="py-6 px-4">40"</td>
+                    </tr>
+                    <tr className="hover:bg-cream/50 transition-colors">
+                      <td className="py-6 px-4 font-semibold text-ink tracking-widest">EXTRA LARGE (XL)</td>
+                      <td className="py-6 px-4">48"</td>
+                      <td className="py-6 px-4">42"</td>
+                      <td className="py-6 px-4">17.0"</td>
+                      <td className="py-6 px-4">43"</td>
+                      <td className="py-6 px-4">40"</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+
+            {/* Custom Stitching Notes */}
+            <section className="bg-cream-dark/20 p-10 md:p-16 relative overflow-hidden flex flex-col md:flex-row gap-10 items-center">
+              <div className="absolute top-0 left-0 w-2 h-full bg-gold" />
+              <div className="flex-1">
+                <h3 className="font-display font-semibold text-3xl md:text-4xl text-ink mb-6">
+                  Bespoke Tailoring Support
+                </h3>
+                <p className="text-base text-ink/75 leading-relaxed font-body max-w-2xl">
+                  If your measurements fall between standard sizes or you would like to request custom sleeve lengths, trouser silhouettes, or neckline shapes, select the "Custom Tailored" variant on the product page. Once selected, our design consultants will contact you directly on WhatsApp to record your exact specifications.
+                </p>
+              </div>
+            </section>
+
+          </div>
+        </div>
+      </main>
+      
+      <Footer />
+      <CartDrawer />
+    </>
+  );
+}

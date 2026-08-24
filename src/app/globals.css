@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  --color-ink: #231f20;
+  --color-gold: #9d835e;
+  --color-gold-light: #c2b29c;
+  --color-gold-hover: #836d4e;
+  --color-cream: #fcfbfa;
+  --color-cream-dark: #e8e4db;
+  --color-border-light: #dcd6cd;
+  
+  --font-display: var(--font-display), serif;
+  --font-body: var(--font-body), sans-serif;
+  
+  --shadow-soft: 0 4px 20px 0 rgba(35, 31, 32, 0.05);
+  --shadow-medium: 0 10px 40px 0 rgba(35, 31, 32, 0.08);
+  --shadow-premium: 0 28px 70px 0 rgba(35, 31, 32, 0.12);
+}
+
+:root {
+  --background: #f7f6f2;
+  --foreground: #231f20;
+  
+  /* 8px spacing scale tokens */
+  --space-8: 8px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --space-64: 64px;
+  --space-96: 96px;
+  --space-128: 128px;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: #9d835e #fcfbfa;
+}
+
+/* Custom Luxury Scrollbar (Webkit) */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fcfbfa;
+  border-left: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9d835e;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #231f20;
+}
+
+/* Hide scrollbar for internal elements if needed, but keep global */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
