@@ -11,15 +11,17 @@
     "inStock": true,
     "description": "A sophisticated summer ensemble featuring intricate floral threadwork across premium lawn fabric. Paired with a block-printed chiffon dupatta and solid dyed cambric trousers. Perfect for seasonal daytime gatherings.",
     "images": [
-      "/ravaya/assets/img/gen_p01_model.jpg",
-      "/ravaya/assets/img/gen_p01_detail.jpg",
-      "/ravaya/assets/img/gen_p01_flat.jpg",
-      "/ravaya/assets/img/gen_p01_back.jpg"
+      "/ravaya/assets/img/gen_p01_model.jpg"
     ],
     "variants": [
       {
         "name": "Stitching",
-        "options": ["Unstitched", "Stitched - S", "Stitched - M", "Stitched - L"]
+        "options": [
+          "Unstitched",
+          "Stitched - S",
+          "Stitched - M",
+          "Stitched - L"
+        ]
       }
     ]
   },
@@ -35,15 +37,17 @@
     "inStock": true,
     "description": "Elegance defined by a heavily-paneled chiffon silhouette, adorned with hand-placed zari, pearls, and tilla embroidery. Paired with a raw silk chooridar and an embellished organza dupatta.",
     "images": [
-      "/ravaya/assets/img/gen_p02_model.jpg",
-      "/ravaya/assets/img/gen_p02_detail.jpg",
-      "/ravaya/assets/img/gen_p02_flat.jpg",
-      "/ravaya/assets/img/gen_p02_back.jpg"
+      "/ravaya/assets/img/gen_p02_model.jpg"
     ],
     "variants": [
       {
         "name": "Size",
-        "options": ["S", "M", "L", "Custom Fit"]
+        "options": [
+          "S",
+          "M",
+          "L",
+          "Custom Fit"
+        ]
       }
     ]
   },
@@ -59,15 +63,14 @@
     "inStock": true,
     "description": "Vibrant garden motifs printed on breathable, lightweight lawn fabric. Accompanied by a printed voile dupatta and plain dyed trousers. Designed for effortless everyday grace.",
     "images": [
-      "/ravaya/assets/img/gen_p03_model.jpg",
-      "/ravaya/assets/img/gen_p03_detail.jpg",
-      "/ravaya/assets/img/gen_p03_flat.jpg",
-      "/ravaya/assets/img/gen_p03_back.jpg"
+      "/ravaya/assets/img/gen_p03_model.jpg"
     ],
     "variants": [
       {
         "name": "Style",
-        "options": ["Unstitched"]
+        "options": [
+          "Unstitched"
+        ]
       }
     ]
   },
@@ -83,15 +86,16 @@
     "inStock": true,
     "description": "An ethereal Peshwas crafted from ice-blue organza with silver kora and dabka embroidery on the bodice. Underlaid with premium viscose and finished with silk pipings.",
     "images": [
-      "/ravaya/assets/img/gen_p04_model.jpg",
-      "/ravaya/assets/img/gen_p04_detail.jpg",
-      "/ravaya/assets/img/gen_p04_flat.jpg",
-      "/ravaya/assets/img/gen_p04_back.jpg"
+      "/ravaya/assets/img/gen_p04_model.jpg"
     ],
     "variants": [
       {
         "name": "Size",
-        "options": ["S", "M", "L"]
+        "options": [
+          "S",
+          "M",
+          "L"
+        ]
       }
     ]
   },
@@ -107,15 +111,17 @@
     "inStock": true,
     "description": "A stylish, heavy-weight cotton khaddar tunic and straight trouser set. Embellished with subtle geometric embroidery along the collar and sleeves, perfect for crisp evening wear.",
     "images": [
-      "/ravaya/assets/img/gen_p05_model.jpg",
-      "/ravaya/assets/img/gen_p05_detail.jpg",
-      "/ravaya/assets/img/gen_p05_flat.jpg",
-      "/ravaya/assets/img/gen_p05_back.jpg"
+      "/ravaya/assets/img/gen_p05_model.jpg"
     ],
     "variants": [
       {
         "name": "Size",
-        "options": ["S", "M", "L", "XL"]
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
       }
     ]
   },
@@ -131,15 +137,15 @@
     "inStock": true,
     "description": "A timeless 6-yard saree draped in pure silk, featuring a hand-woven gold Banarasi zari border. Comes with an unstitched blouse piece in matching silk satin.",
     "images": [
-      "/ravaya/assets/img/gen_p06_model.jpg",
-      "/ravaya/assets/img/gen_p06_detail.jpg",
-      "/ravaya/assets/img/gen_p06_flat.jpg",
-      "/ravaya/assets/img/gen_p06_back.jpg"
+      "/ravaya/assets/img/gen_p06_model.jpg"
     ],
     "variants": [
       {
         "name": "Blouse Style",
-        "options": ["Standard Blouse - Stitched", "Blouse Fabric - Unstitched"]
+        "options": [
+          "Standard Blouse - Stitched",
+          "Blouse Fabric - Unstitched"
+        ]
       }
     ]
   },
@@ -155,15 +161,17 @@
     "inStock": true,
     "description": "A majestic bridal look featuring a deep plum micro-velvet lehenga with gold dabka, sequins, and gota details. Includes a silk choli and a heavy-bordered organza dupatta.",
     "images": [
-      "/ravaya/assets/img/gen_p07_model.jpg",
-      "/ravaya/assets/img/gen_p07_detail.jpg",
-      "/ravaya/assets/img/gen_p07_flat.jpg",
-      "/ravaya/assets/img/gen_p07_back.jpg"
+      "/ravaya/assets/img/gen_p07_model.jpg"
     ],
     "variants": [
       {
         "name": "Size",
-        "options": ["S", "M", "L", "Custom Tailored"]
+        "options": [
+          "S",
+          "M",
+          "L",
+          "Custom Tailored"
+        ]
       }
     ]
   },
@@ -179,15 +187,17 @@
     "inStock": true,
     "description": "An ornate design displaying self-woven jacquard floral clusters on sheer organza. Accented by detailed embroidered borders and soft modal inner lining.",
     "images": [
-      "/ravaya/assets/img/gen_p08_model.jpg",
-      "/ravaya/assets/img/gen_p08_detail.jpg",
-      "/ravaya/assets/img/gen_p08_flat.jpg",
-      "/ravaya/assets/img/gen_p08_back.jpg"
+      "/ravaya/assets/img/gen_p08_model.jpg"
     ],
     "variants": [
       {
         "name": "Stitching",
-        "options": ["Unstitched", "Stitched - S", "Stitched - M", "Stitched - L"]
+        "options": [
+          "Unstitched",
+          "Stitched - S",
+          "Stitched - M",
+          "Stitched - L"
+        ]
       }
     ]
   },
@@ -203,15 +213,17 @@
     "inStock": false,
     "description": "A minimal, everyday classic shirt crafted from 100% fine cotton. Adorned with delicate traditional block-prints and dynamic wood button closures.",
     "images": [
-      "/ravaya/assets/img/gen_p09_model.jpg",
-      "/ravaya/assets/img/gen_p09_detail.jpg",
-      "/ravaya/assets/img/gen_p09_flat.jpg",
-      "/ravaya/assets/img/gen_p09_back.jpg"
+      "/ravaya/assets/img/gen_p09_model.jpg"
     ],
     "variants": [
       {
         "name": "Stitching",
-        "options": ["Unstitched", "Stitched - S", "Stitched - M", "Stitched - L"]
+        "options": [
+          "Unstitched",
+          "Stitched - S",
+          "Stitched - M",
+          "Stitched - L"
+        ]
       }
     ]
   },
@@ -227,15 +239,16 @@
     "inStock": true,
     "description": "An elegant, lightweight chiffon silhouette embellished with mirror-work highlights and sequins on the neckline. Combined with a ruffled crinkle dupatta.",
     "images": [
-      "/ravaya/assets/img/gen_p10_model.jpg",
-      "/ravaya/assets/img/gen_p10_detail.jpg",
-      "/ravaya/assets/img/gen_p10_flat.jpg",
-      "/ravaya/assets/img/gen_p10_back.jpg"
+      "/ravaya/assets/img/gen_p10_model.jpg"
     ],
     "variants": [
       {
         "name": "Size",
-        "options": ["S", "M", "L"]
+        "options": [
+          "S",
+          "M",
+          "L"
+        ]
       }
     ]
   },
@@ -251,15 +264,17 @@
     "inStock": true,
     "description": "A luxurious jamawar silk lehenga skirt featuring rich weave motifs, detailed matching blouse, and a crimson net dupatta laden with golden sequences.",
     "images": [
-      "/ravaya/assets/img/gen_p11_model.jpg",
-      "/ravaya/assets/img/gen_p11_detail.jpg",
-      "/ravaya/assets/img/gen_p11_flat.jpg",
-      "/ravaya/assets/img/gen_p11_back.jpg"
+      "/ravaya/assets/img/gen_p11_model.jpg"
     ],
     "variants": [
       {
         "name": "Size",
-        "options": ["S", "M", "L", "Custom Measurement"]
+        "options": [
+          "S",
+          "M",
+          "L",
+          "Custom Measurement"
+        ]
       }
     ]
   },
@@ -275,15 +290,14 @@
     "inStock": true,
     "description": "Comfortable winter khaddar suit featuring an elaborate floral shawl and dyed trousers. Kept in a warm, comforting shade of camel brown.",
     "images": [
-      "/ravaya/assets/img/gen_p12_model.jpg",
-      "/ravaya/assets/img/gen_p12_detail.jpg",
-      "/ravaya/assets/img/gen_p12_flat.jpg",
-      "/ravaya/assets/img/gen_p12_back.jpg"
+      "/ravaya/assets/img/gen_p12_model.jpg"
     ],
     "variants": [
       {
         "name": "Style",
-        "options": ["Unstitched"]
+        "options": [
+          "Unstitched"
+        ]
       }
     ]
   }

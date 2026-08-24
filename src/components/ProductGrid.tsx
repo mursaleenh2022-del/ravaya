@@ -219,10 +219,10 @@ export default function ProductGrid({ initialProducts, initialCategory = "" }: P
             </motion.div>
           </div>
 
-          {/* Masonry Scatter Layout using CSS Columns */}
-          <div className="columns-1 sm:columns-2 lg:columns-3 gap-8 lg:gap-16 space-y-16 lg:space-y-32">
+          {/* Grid Scatter Layout */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 lg:gap-16">
             {filteredProducts.map((prod) => (
-              <div key={prod.id} className="break-inside-avoid w-full">
+              <div key={prod.id} className="w-full">
                 <ProductCard product={prod} />
               </div>
             ))}
