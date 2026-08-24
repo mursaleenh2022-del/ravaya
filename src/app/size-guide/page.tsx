@@ -95,7 +95,7 @@ export default function SizeGuidePage() {
                   Bespoke Tailoring Support
                 </h3>
                 <p className="text-base text-ink/75 leading-relaxed font-body max-w-2xl">
-                  If your measurements fall between standard sizes or you would like to request custom sleeve lengths, trouser silhouettes, or neckline shapes, select the "Custom Tailored" variant on the product page. Once selected, our design consultants will contact you directly on WhatsApp to record your exact specifications.
+                  For clients whose measurements fall between our standard sizes, or those desiring personalized adjustments—such as custom sleeve lengths, modified trouser silhouettes, or altered necklines—we offer an exclusive bespoke service. Simply select the "Custom Tailored" option on the product page, and one of our dedicated design consultants will personally reach out to you via WhatsApp to discuss your exact specifications and ensure a flawless fit.
                 </p>
               </div>
             </section>
