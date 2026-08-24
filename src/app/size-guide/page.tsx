@@ -94,8 +94,8 @@ export default function SizeGuidePage() {
                 <h3 className="font-display font-semibold text-3xl md:text-4xl text-ink mb-6">
                   Bespoke Tailoring Support
                 </h3>
-                <p className="text-base text-ink/75 leading-relaxed font-body max-w-2xl">
-                  For clients whose measurements fall between our standard sizes, or those desiring personalized adjustments—such as custom sleeve lengths, modified trouser silhouettes, or altered necklines—we offer an exclusive bespoke service. Simply select the "Custom Tailored" option on the product page, and one of our dedicated design consultants will personally reach out to you via WhatsApp to discuss your exact specifications and ensure a flawless fit.
+                <p className="text-sm text-ink/75 leading-relaxed font-body max-w-2xl">
+                  We provide an exclusive bespoke tailoring service for clients with unique measurement requirements or those seeking personalized adjustments like custom sleeve lengths, varied trouser silhouettes, or tailored necklines. To request this service, simply choose the "Custom Tailored" variant when adding an item to your collection. One of our specialized design consultants will then contact you directly on WhatsApp to finalize your exact specifications and guarantee a flawless fit.
                 </p>
               </div>
             </section>
