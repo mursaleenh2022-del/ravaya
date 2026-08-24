@@ -11,6 +11,13 @@ interface PageProps {
   params: Promise<{ id: string }>;
 }
 
+export async function generateStaticParams() {
+  const products = productsData as Product[];
+  return products.map((product) => ({
+    id: product.id,
+  }));
+}
+
 export default async function ProductDetailPage(props: PageProps) {
   const params = await props.params;
   const products = productsData as Product[];

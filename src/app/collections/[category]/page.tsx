@@ -11,6 +11,12 @@ import { notFound } from "next/navigation";
 // The valid categories based on the site's structure
 const VALID_CATEGORIES = ["casual", "festive", "bridal", "formal"];
 
+export async function generateStaticParams() {
+  return VALID_CATEGORIES.map((category) => ({
+    category: category,
+  }));
+}
+
 export default async function CategoryPage(props: {
   params: Promise<{ category: string }>;
 }) {
