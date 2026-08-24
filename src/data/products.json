@@ -1,7 +1,7 @@
 [
   {
     "id": "ravaya-001",
-    "name": "Zariyah Khurshid Embroidered Lawn",
+    "name": "Bahar Bagh Printed Lawn",
     "price": 6500,
     "compareAtPrice": 7800,
     "category": "Festive",
@@ -27,7 +27,7 @@
   },
   {
     "id": "ravaya-002",
-    "name": "Meher-un-Nisa Chiffon Anarkali",
+    "name": "Jahan Ara Heavily Formals",
     "price": 24500,
     "compareAtPrice": 28000,
     "category": "Bridal",
@@ -53,7 +53,7 @@
   },
   {
     "id": "ravaya-003",
-    "name": "Bahar Bagh Printed Lawn",
+    "name": "Rayyan Printed Cotton Kurta",
     "price": 3800,
     "compareAtPrice": 4500,
     "category": "Casual",
@@ -76,7 +76,7 @@
   },
   {
     "id": "ravaya-004",
-    "name": "Darya Organza Peshwas",
+    "name": "Mehtab Bridal Couture",
     "price": 14800,
     "compareAtPrice": null,
     "category": "Formal",
@@ -101,7 +101,7 @@
   },
   {
     "id": "ravaya-005",
-    "name": "Sham-e-Avadh Khaddar Co-ord",
+    "name": "Zohra Velvet Winter",
     "price": 4200,
     "compareAtPrice": 5200,
     "category": "Casual",
@@ -127,7 +127,7 @@
   },
   {
     "id": "ravaya-006",
-    "name": "Noor Jahan Silk Saree",
+    "name": "Guldasta Silk Saree",
     "price": 12500,
     "compareAtPrice": 15000,
     "category": "Formal",
@@ -151,7 +151,7 @@
   },
   {
     "id": "ravaya-007",
-    "name": "Shehnai Velvet Lehenga",
+    "name": "Noor Bridal Velvet",
     "price": 35000,
     "compareAtPrice": 42000,
     "category": "Bridal",
@@ -177,7 +177,7 @@
   },
   {
     "id": "ravaya-008",
-    "name": "Afsheen Organza Jacquard",
+    "name": "Fiza Chiffon Festive",
     "price": 7800,
     "compareAtPrice": null,
     "category": "Festive",
@@ -203,7 +203,7 @@
   },
   {
     "id": "ravaya-009",
-    "name": "Rayyan Printed Cotton Kurta",
+    "name": "Alizeh Classic Cotton",
     "price": 2800,
     "compareAtPrice": 3200,
     "category": "Casual",
@@ -229,7 +229,7 @@
   },
   {
     "id": "ravaya-010",
-    "name": "Mastani Chiffon Dupatta Suit",
+    "name": "Sitara Festive Wear",
     "price": 9500,
     "compareAtPrice": 11000,
     "category": "Festive",
@@ -254,7 +254,7 @@
   },
   {
     "id": "ravaya-011",
-    "name": "Zebaish Silk Lehenga",
+    "name": "Zara Formal Net",
     "price": 29500,
     "compareAtPrice": 34000,
     "category": "Bridal",
@@ -280,7 +280,7 @@
   },
   {
     "id": "ravaya-012",
-    "name": "Aria Khaddar Shawl Suit",
+    "name": "Hania Khaddar Winter",
     "price": 5400,
     "compareAtPrice": 6200,
     "category": "Casual",

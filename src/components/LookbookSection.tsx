@@ -34,11 +34,6 @@ export default function LookbookSection({ products }: { products: Product[] }) {
                   alt={product.name}
                   className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:scale-110"
                 />
-                <img 
-                  src={product.images[1]} 
-                  alt={`${product.name} detail`}
-                  className="absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:opacity-100"
-                />
                 
                 {/* Elegant overlay gradient on hover */}
                 <div className="absolute inset-0 bg-gradient-to-t from-ink/80 via-transparent to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />

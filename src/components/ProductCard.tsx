@@ -57,17 +57,9 @@ export default function ProductCard({ product, index = 0 }: ProductCardProps) {
           <img
             src={product.images[0]}
             alt={product.name}
-            className="absolute inset-0 w-full h-full object-cover transition-all duration-[1.5s] ease-out group-hover:opacity-0 group-hover:scale-105"
+            className="absolute inset-0 w-full h-full object-cover transition-all duration-[1.5s] ease-out group-hover:scale-105"
             loading="lazy"
           />
-          {product.images[1] && (
-            <img
-              src={product.images[1]}
-              alt={`${product.name} detail`}
-              className="absolute inset-0 w-full h-full object-cover opacity-0 scale-100 transition-all duration-[1.5s] ease-out group-hover:scale-105 group-hover:opacity-100 z-10"
-              loading="lazy"
-            />
-          )}
         </div>
 
         {/* Hover Gradient Mask */}
