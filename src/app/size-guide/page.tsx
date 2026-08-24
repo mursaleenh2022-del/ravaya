@@ -87,15 +87,21 @@ export default function SizeGuidePage() {
               </div>
             </section>
 
-            {/* Custom Stitching Notes */}
-            <section className="border border-border-light/50 bg-white shadow-soft rounded-[24px] p-10 md:p-16 flex flex-col items-center text-center mx-auto max-w-4xl">
-              <div className="w-10 h-0.5 bg-gold mb-8" />
-              <h3 className="font-display font-semibold text-3xl md:text-4xl text-ink mb-6">
-                Bespoke Tailoring Support
-              </h3>
-              <p className="text-sm text-ink/75 leading-relaxed font-body max-w-2xl">
-                We provide an exclusive bespoke tailoring service for clients with unique measurement requirements or those seeking personalized adjustments like custom sleeve lengths, varied trouser silhouettes, or tailored necklines. To request this service, simply choose the "Custom Tailored" variant when adding an item to your collection. One of our specialized design consultants will then contact you directly on WhatsApp to finalize your exact specifications and guarantee a flawless fit.
-              </p>
+            {/* Custom Stitching Notes (Unboxed Editorial Style) */}
+            <section className="mt-16 pt-16 border-t border-ink/10 flex flex-col md:flex-row gap-8 items-start md:items-center">
+              <div className="md:w-1/3">
+                <span className="text-[10px] font-bold tracking-[0.2em] uppercase text-gold mb-3 block">
+                  Personalized Fit
+                </span>
+                <h3 className="font-display text-2xl sm:text-3xl text-ink">
+                  Bespoke Tailoring
+                </h3>
+              </div>
+              <div className="md:w-2/3 md:pl-12 md:border-l border-ink/10">
+                <p className="text-sm text-ink/75 leading-loose font-body">
+                  If you need adjustments to standard sizes, simply choose the "Custom Tailored" option on any product page. A dedicated design consultant will reach out via WhatsApp to record your exact measurements, ensuring your outfit is crafted flawlessly to your unique silhouette.
+                </p>
+              </div>
             </section>
 
           </div>
